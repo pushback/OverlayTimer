@@ -13,6 +13,7 @@
 ## Requirement
 * Windows
 * .NET framework 4.6.1
+* ビルドする場合のみ：Visual Studio 2017
 
 ## Usage
 <dl>
@@ -25,7 +26,8 @@
 </dl>
 
 ## Install
-VS2017にてビルド
+VS2017にてビルドしてください。
+[ビルド済みバイナリ](https://github.com/pushback/OverlayTimer/releases)もあります。
 
 ## Contribution
 改善案があればpull requestください。
