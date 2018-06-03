@@ -1,0 +1,7 @@
+﻿################################################################################
+# この .gitignore ファイルは Microsoft(R) Visual Studio によって自動的に作成されました。
+################################################################################
+
+/OverlayTimer/OverlayTimer/bin
+/OverlayTimer/OverlayTimer/obj
+/OverlayTimer/.vs
