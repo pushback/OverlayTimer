@@ -15,10 +15,12 @@
             <RowDefinition Height="*"/>
         </Grid.RowDefinitions>
         <Viewbox Grid.Row="0" Grid.Column="0">
-            <Label Name="nowTime" Content="現在時刻" Opacity="0.1" FontSize="72"/>
+            <Label Name="nowTime" Content="現在時刻" FontSize="72"
+                   Foreground="{Binding Source={x:Static local:App.TextColor}}"/>
         </Viewbox>
         <Viewbox Grid.Row="1" Grid.Column="0">
-            <Label Name="execTime" Content="経過時間" Opacity="0.1" FontSize="72"/>
+            <Label Name="execTime" Content="経過時間" FontSize="72"
+                   Foreground="{Binding Source={x:Static local:App.TextColor}}"/>
         </Viewbox>
     </Grid>
 </local:OverlayWindow>
