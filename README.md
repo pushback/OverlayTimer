@@ -13,6 +13,7 @@
 ## Requirement
 * Windows
 * .NET framework 4.6.1
+* ビルドする場合のみ：Visual Studio 2017
 
 ## Usage
 <dl>
