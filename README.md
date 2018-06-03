@@ -19,6 +19,8 @@
 <dl>
   <dt>起動</dt>
     <dd>OverlayTimer.exeを起動</dd>
+  <dt>起動オプション</dt>
+    <dd>不透明度とRGB値を#AARRGGBB形式で指定（例：OverlayTimer #30BBBB66）</dd>
   <dt>マルチモニタ環境での表示先移動</dt>
     <dd>タスクバーから選択後、Win+矢印キー</dd>
   <dt>プログラムの終了</dt>
