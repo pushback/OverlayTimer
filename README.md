@@ -25,7 +25,8 @@
 </dl>
 
 ## Install
-VS2017にてビルド
+VS2017にてビルドしてください。
+[ビルド済みバイナリ](https://github.com/pushback/OverlayTimer/releases)もあります。
 
 ## Contribution
 改善案があればpull requestください。
